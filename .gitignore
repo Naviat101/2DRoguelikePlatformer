@@ -34,6 +34,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
@@ -58,6 +59,13 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Design docs / generated PDFs (kept locally, not versioned)
+/[Aa]ssets/_[Pp]roject/[Dd]ocuments/
+/[Aa]ssets/_[Pp]roject/[Dd]ocuments.meta
+
 # Crashlytics generated file
 crashlytics-build.properties
+
+# User-specific files
+/[Uu]ser[Ss]ettings/
 
